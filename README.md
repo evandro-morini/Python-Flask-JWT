@@ -21,10 +21,10 @@ Configuração
     - /revendedor/add
     - /revendedor/validar_login
     - /compra/add
-    - /compra/update/<id>
-    - /compra/delete/<id>
+    - /compra/update/id
+    - /compra/delete/id
     - /compra/list
-    - /compra/acumulado
+    - /compra/acumulado/cpf
     
     Todas as rotas acima exigem Token válido (via GET)*
     
