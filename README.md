@@ -25,7 +25,8 @@ Configuração
     - /compra/delete/<id>
     - /compra/list
     - /compra/acumulado
-*Todas as rotas acima exigem Token válido (via GET)*
+    
+    Todas as rotas acima exigem Token válido (via GET)*
     
 Ex: http://127.0.0.1:5000/compra/acumulado?cpf=12312312323&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6InBlZHJvLnBlcmVpcmFAdGVzdGViLmNvbS5iciIsImV4cCI6MTU3NjgyMzE0M30.UF1OlduPEBSSPirTo5ctkNhbC1xgo5uBCNUdFoXC6Co
 
